@@ -1,0 +1,21 @@
+sm
+1. draw s curve
+2. edit s curve
+3. compute and draw s sh b curve
+4. edit sh and b curve
+5. generate terrain
+
+array of silhouettes
+when mode is changed to sm a new silhouette instance is generated
+
+silhouette
+1. s curve
+2. b curve
+3. sh curve
+
+opengl specific stuff
+
+r = o + t(p - o)
+
+P = x.n =
+
